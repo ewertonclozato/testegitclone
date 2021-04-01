@@ -11,6 +11,7 @@ class Program
         Console.WriteLine("Editando para fazer o PULL");
         Console.WriteLine("Teste GIT CLONE");
         Console.WriteLine("Teste com GIT DESKTOP");
+        Console.WriteLine("Fazendo um PULL pelo GIT DESKTOP");
         Console.ReadKey();
     }
 }
